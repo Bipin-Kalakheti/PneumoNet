@@ -1,0 +1,9 @@
+/archive
+/chest_xray
+
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
